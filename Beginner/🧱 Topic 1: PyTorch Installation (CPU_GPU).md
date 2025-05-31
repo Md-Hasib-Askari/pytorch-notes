@@ -38,7 +38,7 @@ PyTorch supports installation on various platforms with both CPU and GPU acceler
 
 **✅ Using pip (Recommended for most users)**
 - CPU-only (lightweight)
-- ```bash pip install torch torchvision torchaudio```
+- ```pip install torch torchvision torchaudio```
 - GPU (CUDA 12.1)
 
 ```python
