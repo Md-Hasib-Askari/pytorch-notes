@@ -131,13 +131,13 @@
 
 **📖 Suggested Resources**
 
-1. Tutorials
+**1. Tutorials**
 
 - PyTorch Official Tutorials
 - Deep Learning with PyTorch (book)
 
 
-2. Courses
+**2. Courses**
 
 - FastAI – Practical deep learning with PyTorch
 - Deep Learning Specialization (Coursera) + PyTorch adaptation
