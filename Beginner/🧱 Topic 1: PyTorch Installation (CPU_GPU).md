@@ -110,10 +110,11 @@ conda install notebook
 
 ### 🧰 5. Troubleshooting Tips
 
-- Problem	Solution
-- torch.cuda.is_available() returns False	Ensure NVIDIA drivers and CUDA toolkit are properly installed. Use matching CUDA version.
-- Slow install	Use a mirror or switch to conda.
-- Compatibility errors	Create a fresh virtual environment.
+| Problem |	Solution |
+| --- | --- |
+| torch.cuda.is_available() returns False	| Ensure NVIDIA drivers and CUDA toolkit are properly installed. Use matching CUDA version. |
+| Slow install	| Use a mirror or switch to conda. |
+| Compatibility errors	| Create a fresh virtual environment. |
 
 ---
 
